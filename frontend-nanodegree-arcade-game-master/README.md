@@ -1,7 +1,7 @@
 # Clasic Arcade Game Clone
 ### To run
 ---------------------------
-- Download or fork the application from [here](https://github.com/BeZoOo/arcade-game)
+- Download or fork the application from [here](https://github.com/BeZoOo/arcade-game/tree/master/frontend-nanodegree-arcade-game-master)
 - Select ```index.html``` to start the app
 
 ### To Use
